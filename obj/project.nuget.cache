@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VptrL0BtMvW2JRrgHAD1+TYFe+jEDJdr1ySWZBU/jAKCK3PpLfzh2mU2/Nd2nDB26CXBNjiupj0ssLLoSNxvKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\exosZoldyck\\source\\repos\\MineCleaner\\MineCleaner\\MineCleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exosZoldyck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\exosZoldyck\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\exosZoldyck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\exosZoldyck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
